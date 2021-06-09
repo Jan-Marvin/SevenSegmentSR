@@ -1,5 +1,8 @@
 # ShiftRegister 74HC595 Arduino Library
 
+Added a way to control a seven segment display.
+This is mainly for my purpose.
+
 This library simplifies the usage of shift registers. For instance, it allows to set pins of the shift register just like normal Arduino pins: 
 ```
 sr.set(1, HIGH)
